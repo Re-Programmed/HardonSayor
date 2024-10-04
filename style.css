@@ -1,0 +1,15 @@
+img{
+    position: fixed;
+}
+
+body{
+    background-color: black;
+  
+}
+
+h1, p{
+    color: green;
+    font-family: monospace;
+
+    font-size: 5em;
+}
